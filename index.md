@@ -4,8 +4,9 @@
 
 ### Learn About My Projects
 
-#### [iFood Marketing Data Analysis]([/bank](https://www.linkedin.com/pulse/excel-ifood-marketing-data-analysis-project-marcela-fornazari-bqhhc/))
+#### [iFood Marketing Data Analysis](/bank)
 <img src="ifood.png"/>
+
 I would like to share with you this marketing data analysis article I wrote about the sales of my home country's leading delivery food company, iFood. I hope you enjoy it!
 
 ---
