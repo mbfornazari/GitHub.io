@@ -4,8 +4,8 @@
 
 ### Learn About My Projects
 
-#### [Internal Blog Post Project](/bank)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+#### [iFood Marketing Data Analysis](/bank)
+<img src="[images/dummy_thumbnail.jpg?raw=true](https://www.linkedin.com/pulse/excel-ifood-marketing-data-analysis-project-marcela-fornazari-bqhhc/)"/>
 Tolulope is the best
 
 ---
