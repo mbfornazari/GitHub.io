@@ -11,7 +11,7 @@ I would like to share with you this marketing data analysis article I wrote abou
 
 ---
 #### [Healthcare Data Analysis](https://www.linkedin.com/pulse/sql-healthcare-data-analysis-marcela-fornazari-jwijc/?trackingId=%2Be5irgRiST%2BUvwhY5TaFvw%3D%3D)
-<img src="images/21 Days To Data Challenge.png?raw=true"/>
+[<img src="images/Healthcare.png"/>]([https://www.linkedin.com/pulse/excel-ifood-marketing-data-analysis-project-marcela-fornazari-bqhhc](https://www.linkedin.com/pulse/sql-healthcare-data-analysis-marcela-fornazari-jwijc/?trackingId=%2Be5irgRiST%2BUvwhY5TaFvw%3D%3D)/)
 For this project, I explored how we can effectively run the operations of a hospital.  
 
 ---
