@@ -10,7 +10,7 @@
 I would like to share with you this marketing data analysis article I wrote about the sales of my home country's leading delivery food company, iFood. I hope you enjoy it!
 
 ---
-#### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
+#### [Healthcare Data Analysis](https://www.linkedin.com/pulse/sql-healthcare-data-analysis-marcela-fornazari-jwijc/?trackingId=%2Be5irgRiST%2BUvwhY5TaFvw%3D%3D))
 <img src="images/21 Days To Data Challenge.png?raw=true"/>
 For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
 
