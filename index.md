@@ -16,7 +16,9 @@ I would like to share with you this marketing data analysis article I wrote abou
 For this project, I explored how we can effectively run the operations of a hospital. I would love you hear your thoughts in the comments :) 
 
 ---
-#### [Massachussets Public School Overview](https://public.tableau.com/app/profile/marcela.fornazari/viz/MassachusettsSchoolProject_17097858783220/MassachusettsEducationOverview)
+#### [Taylor Swift Music Attributes] (https://public.tableau.com/app/profile/marcela.fornazari/viz/TaylorSwift_17155550425330/TaylorSwift?publish=yes)
+[<img src="images/taylor swift.jpeg"/>](https://public.tableau.com/app/profile/marcela.fornazari/viz/TaylorSwift_17155550425330/TaylorSwift?publish=yes)
+(https://public.tableau.com/app/profile/marcela.fornazari/viz/TaylorSwift_17155550425330/TaylorSwift?publish=yes)
 
 
 
