@@ -21,5 +21,10 @@ For this project, I explored how we can effectively run the operations of a hosp
 
 This is a graph representation of Taylor Swift's music attributes per album 
 
+___
+
+#### [Tableau: Visualizing the NBA 23-24 Season (https://www.linkedin.com/pulse/tableau-visualizing-nba-23-24-season-marcela-fornazari-azj2c/?trackingId=5vaz2lcGTTS0rOu5Jsz71A%3D%3D)
+[<img src="images/taylor swift.jpeg"/>](https://public.tableau.com/app/profile/marcela.fornazari/viz/TaylorSwift_17155550425330/TaylorSwift?publish=yes)
+
 
 
