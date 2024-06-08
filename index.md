@@ -24,7 +24,7 @@ This is a graph representation of Taylor Swift's music attributes per album
 ___
 
 #### [Tableau: Visualizing the NBA 23-24 Season](https://www.linkedin.com/pulse/tableau-visualizing-nba-23-24-season-marcela-fornazari-azj2c/?trackingId=5vaz2lcGTTS0rOu5Jsz71A%3D%3D)
-[<img src="images/Orange and Black Basketball Court Motivational Notebook Cover.png/>](https://www.linkedin.com/pulse/tableau-visualizing-nba-23-24-season-marcela-fornazari-azj2c/?trackingId=5vaz2lcGTTS0rOu5Jsz71A%3D%3D)
+[<img src="images/Orange and Black Basketball Court Motivational Notebook Cover.png"/>](https://www.linkedin.com/pulse/tableau-visualizing-nba-23-24-season-marcela-fornazari-azj2c/?trackingId=5vaz2lcGTTS0rOu5Jsz71A%3D%3D)
 
 
 
